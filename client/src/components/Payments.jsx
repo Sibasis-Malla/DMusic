@@ -52,7 +52,7 @@ function Payments(props) {
           <h3 className="d-flex justify-content-center my-2">
             Current ListenHours
           </h3>
-          <h5 className="d-flex justify-content-center my-2">0</h5>
+          <h5 className="d-flex justify-content-center my-2">{props.timer}</h5>
           <button
             type="button"
             onClick={props.payboss}

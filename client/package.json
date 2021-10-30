@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^5.1.3",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^53.0.1",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-scripts": "3.4.1",

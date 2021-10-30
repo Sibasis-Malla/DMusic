@@ -3,7 +3,6 @@ var MyToken = artifacts.require("./MyToken.sol");
 var MyTokenSales = artifacts.require("./MyTokenSale.sol");
 
 const BigNumber = require('bignumber.js');
-require('dotenv').config();
 let x = new BigNumber(1000*10**13);
 
 
