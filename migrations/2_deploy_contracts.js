@@ -1,6 +1,6 @@
 var LicenseToken = artifacts.require("./LicenseToken.sol");
-// var MyToken = artifacts.require("./MyToken.sol");
-// var MyTokenSales = artifacts.require("./MyTokenSale.sol");
+var MyToken = artifacts.require("./MyToken.sol");
+var MyTokenSales = artifacts.require("./MyTokenSale.sol");
 
 const BigNumber = require('bignumber.js');
 require('dotenv').config();

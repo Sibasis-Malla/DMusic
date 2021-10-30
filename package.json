@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "bignumber": "^1.1.0",
+    "dotenv": "^10.0.0",
+    "react-router-dom": "^5.3.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
 }
