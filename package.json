@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "set": "npm start",
-    "install-client":"cd client && npm install",
-    "heroku-postbuild":"npm run install-client && npm run set"
+    "build": "cd client && npm run build",
+    "install-client": "cd client && npm install",
+    "heroku-postbuild": "npm run install-client && npm run build",
+    "client": "cd client && npm start"
   },
   "keywords": [],
   "author": "",
