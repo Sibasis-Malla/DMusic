@@ -38,6 +38,7 @@ class App extends Component {
 
   componentDidMount = async () => {
     try {
+      document.title = "DMusic"
       // Get network provider and web3 instance.
       this.web3 = await getWeb3();
 
