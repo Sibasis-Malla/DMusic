@@ -1,7 +1,7 @@
 # DMusic
 ## About
 DMusic is a Music streaming platform with pay-as-much-as-you stream functionality. Apart from that it also provides Artists an easy way to license their work.
-## To Run the Aplication
+## To Run the Application
 
 
 1. Make Sure you have Metamask installed and connected to ropsten, Goerli,Or rinkeby Network and have some test Ethers.
