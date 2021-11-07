@@ -26,3 +26,6 @@ npm start
 ### Licensing
 
 1. When you upload your artwork and its data it is Uploaded to IPFS and after upload completion metadata is fetched and passed to the NFT smart Contract and your NFT(DML-DMusicLicense) license is minted after transaction approval.
+
+
+Project DEMO - https://www.youtube.com/watch?v=oZIz56OLcr0
