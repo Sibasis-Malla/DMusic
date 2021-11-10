@@ -8,8 +8,8 @@ DMusic is a Music streaming platform with pay-as-much-as-you stream functionalit
 
 2. Run the following commands on your local Machine
 ```
-npm install
 cd client
+npm install
 npm start
 ```
 
