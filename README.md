@@ -4,7 +4,7 @@ DMusic is a Music streaming platform with pay-as-much-as-you stream functionalit
 ## To Run the Application
 
 
-1. Make Sure you have Metamask installed and connected to ropsten, Goerli,Or rinkeby Network and have some test Ethers.
+1. Make Sure you have Metamask installed and connected to ropsten, Goerli, rinkeby Or Matic Network and have some test Ethers.
 
 2. Run the following commands on your local Machine
 ```
